@@ -1,4 +1,4 @@
-# custom_palette
+# Flutter_theme_extension
 
 A new Flutter project.
 
